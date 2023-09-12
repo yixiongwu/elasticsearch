@@ -17,7 +17,7 @@ The following <<indices-analyze,analyze API>> request uses the
 `html_strip` filter to change the text `<p>I&apos;m so <b>happy</b>!</p>` to
 `\nI'm so happy!\n`.
 
-[source,console]
+[source, console]
 ----
 GET /_analyze
 {
