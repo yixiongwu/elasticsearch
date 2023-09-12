@@ -4,6 +4,7 @@
 <titleabbrev>KStem</titleabbrev>
 ++++
 
+
 Provides https://ciir.cs.umass.edu/pubfiles/ir-35.pdf[KStem]-based stemming for
 the English language. The `kstem` filter combines
 <<algorithmic-stemmers,algorithmic stemming>> with a built-in
